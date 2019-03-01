@@ -11,7 +11,7 @@ title: события
 [Анаш](koritz-2007/anash.md)
 
 ## Рабиский 2007 ##
-[Объявление](https://drive.google.com/open?id=1i5V1rc_J0OlDvOfaloRlWEpkGV6MNeQiwFX_TbsaiJg)
+[Объявление](rabiski-2007/announcement.md)
 
 ## Семинар 2014 ##
 С 13го по 16е ноября 2014го года в доме Дубинских прошёл семинар по вопросам иудаизма.
