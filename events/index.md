@@ -5,10 +5,10 @@ title: события
 * TOC
 {:toc}
 ## Кориц 2007 ##
-[Объявление](https://docs.google.com/document/d/1ka2n_QZP4hf495JtrHDH6zqlu1Hg4pJtqkCHH4HNOI0)
-[Handout](https://drive.google.com/open?id=1VfumAcWjdpuKBvGJSyipmEffiPosfJobpahimqrU8NE)
+[Объявление](koritz-2007/announcement.md)
+[Handout](koritz-2007/handout.md)
 [Слайды](https://drive.google.com/open?id=1XojjHTsZWbmjX8ElyOvPj1UKHHWK753GGWCWYBoPpGQ)
-[Anash](https://drive.google.com/open?id=1W_O1Z5w8a4BsaQORBWkxSJxAcbo538tXiOexrFNmvg0)
+[Анаш](koritz-2007/anash.md)
 
 ## Рабиский 2007 ##
 [Объявление](https://drive.google.com/open?id=1i5V1rc_J0OlDvOfaloRlWEpkGV6MNeQiwFX_TbsaiJg)
@@ -24,12 +24,11 @@ title: события
 Исроэлем Марковым.
 
 Моше Партенский записал, обработал и опубликовал несколько фрагментов на видео:
-
-[Part 1](https://youtu.be/wtXa-saq6SQ)
-[Part 2](https://youtu.be/_2sUyHnwAI8)
-[Part 3](https://youtu.be/OUJKgPLPs4k)
-[Part 4](https://youtu.be/IMD69QLVCqM)
-[Part 5](https://youtu.be/tk9c87aqkD0)
+[1](https://youtu.be/wtXa-saq6SQ)
+[2](https://youtu.be/_2sUyHnwAI8)
+[3](https://youtu.be/OUJKgPLPs4k)
+[4](https://youtu.be/IMD69QLVCqM)
+[5](https://youtu.be/tk9c87aqkD0).
 
 ## Семинар 2015 ##
 [Объявление](https://drive.google.com/open?id=1mRF95kVX9JSPQjd8jAhxo_qlCrEQeaO6tCyBjMbEC-Y)

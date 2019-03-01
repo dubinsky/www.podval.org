@@ -53,7 +53,7 @@ timezone: America/New_York
 
 header_pages:
   - index.md
-  - events.md
+  - events/index.md
 
 #defaults:
 #  -
