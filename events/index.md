@@ -18,8 +18,9 @@ title: события
 Встречи проходили в крайне неформальной обстановке.
 Нашими гостями были раввин Гирш Рабийский (Торонто, Канада); раввин Шая Гиссер (Нокдим, Израиль)
 и раввин Михоэль Кориц (Иерусалим, Израиль).
-Вот [программа](https://drive.google.com/open?id=1hkT0D9kLWtcsj_TPk7sciGS0kQ2fAPbCSZ5TllL_D3Y)
+Вот [программа](seminar-2014/announcement.md)
 этого семинара. Естественно, не все темы были раскрыты :)
+
 Если вы хотите повторения, сдавайте деньги в организацию "Mazal Institute", возглавляемую
 Исроэлем Марковым.
 
@@ -31,7 +32,7 @@ title: события
 [5](https://youtu.be/tk9c87aqkD0).
 
 ## Семинар 2015 ##
-[Объявление](https://drive.google.com/open?id=1mRF95kVX9JSPQjd8jAhxo_qlCrEQeaO6tCyBjMbEC-Y)
+[Объявление](seminar-2015/announcement.md)
 
 ## Семинар 2016 ##
 [Объявление](https://drive.google.com/open?id=1lj6DO8BEqPU12CKMDao_9o_jl1bCH3LtQ7ydOP6qIjw)
