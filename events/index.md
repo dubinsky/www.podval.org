@@ -2,27 +2,22 @@
 layout: page
 title: события
 ---
-* TOC
-{:toc}
-## Кориц 2007 ##
+
+## Кориц 2007 (декабрь 9-12) ##
 [Объявление](koritz-2007/announcement.md)
+
 [Handout](koritz-2007/handout.md)
+
 [Слайды](https://drive.google.com/open?id=1XojjHTsZWbmjX8ElyOvPj1UKHHWK753GGWCWYBoPpGQ)
+
 [Анаш](koritz-2007/anash.md)
 
-## Рабиский 2007 ##
+## Рабиский 2007 (июль 16) ##
 [Объявление](rabiski-2007/announcement.md)
 
-## Семинар 2014 ##
-С 13го по 16е ноября 2014го года в доме Дубинских прошёл семинар по вопросам иудаизма.
-Встречи проходили в крайне неформальной обстановке.
-Нашими гостями были раввин Гирш Рабийский (Торонто, Канада); раввин Шая Гиссер (Нокдим, Израиль)
-и раввин Михоэль Кориц (Иерусалим, Израиль).
-Вот [программа](seminar-2014/announcement.md)
-этого семинара. Естественно, не все темы были раскрыты :)
+## Семинар 2014 (ноябрь 13-16) ##
 
-Если вы хотите повторения, сдавайте деньги в организацию "Mazal Institute", возглавляемую
-Исроэлем Марковым.
+[Объявление](seminar-2014/announcement.md)
 
 Моше Партенский записал, обработал и опубликовал несколько фрагментов на видео:
 [1](https://youtu.be/wtXa-saq6SQ)
@@ -31,21 +26,37 @@ title: события
 [4](https://youtu.be/IMD69QLVCqM)
 [5](https://youtu.be/tk9c87aqkD0).
 
-## Семинар 2015 ##
+## Семинар 2015 (ноябрь 7-9) ##
 [Объявление](seminar-2015/announcement.md)
 
-## Семинар 2016 ##
-[Объявление](https://drive.google.com/open?id=1lj6DO8BEqPU12CKMDao_9o_jl1bCH3LtQ7ydOP6qIjw)
+## Семинар 2016 (ноябрь 21-23) ##
+[Объявление](seminar-2016/announcement.md)
 
-## Гиссер 2017 ##
-[Объявление](https://drive.google.com/open?id=1cxJYoEwAzS-JVF4Lc7WpJ7Ve65DgznW4IMuzV0tEsQU)
+## Гиссер 2017 (февраль 27) ##
+[Объявление](gisser-2017/announcement.md)
 
-## Семинар 2017 ##
-[Объявление](https://drive.google.com/open?id=1izxxpn92aC1tjFc51QevQ5uwoDP66a0ov7EflzsFoGg)
+## Семинар 2017 (ноябрь 11-12) ##
+[Объявление](seminar-2017/announcement.md)
+
 [Фотографии с лекции в Шало Хауз](https://photos.google.com/share/AF1QipMQztKzmp2MdAIkZq_rd8QBSR8l86ur_04NN5tK81trFwm6Vug9x2l7HHDDxkANKw?key=SEFUeVNNSHNlNDBRcHZYTDdPYjl6RU1JS0I3RnBR)
 
-## Гиссер 2018 ##
-[Объявление](https://drive.google.com/open?id=1U1zAU58c3OQ1yN6DiYt5UFvoZsv-BuCRga042HoCZVE)
+## Гиссер 2018 (февраль 3-5) ##
+[Объявление](gisser-2018/announcement.md)
 
-## Семинар 2018 ##
-[Объявление](https://docs.google.com/document/d/1sZWX_xl_QwR07B7jXjR3ZCsMR1xkPNAcB_CtXWfu7bY/edit?usp=sharing)
+## Семинар 2018 (октябрь 27-29) ##
+[Объявление](seminar-2018/announcement.md)
+
+
+# Участие #
+
+Чтобы получать уведомления о встречах семинара (проходящих один-два раза в год),
+[подпишитесь на рассылку](https://groups.google.com/a/podval.org/d/forum/judaism-seminar).
+
+Финансирование семинара осуществляется организацией Mazal Institute,
+возглавляемой Исроэлем Марковым. Если Вы хотите поддержать наши семинары по иудаизму деньгами,
+доброхотные пожертвования (не облагаемые налогами) с пометкой “семинар” направляйте по адресу:
+```
+Mazal Institute
+64 Wallingford Road, Brighton, MA 02135
+Paypal: mazalinst@gmail.com
+```
