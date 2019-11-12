@@ -73,6 +73,11 @@ title: объявление
 рассылку:
 [https://groups.google.com/a/podval.org/d/forum/judaism-seminar](https://groups.google.com/a/podval.org/d/forum/judaism-seminar).
 
-Финансирование семинара осуществляется организацией Mazal Institute. Доброхотные пожертвования (не
-облагаемые налогами) с пометкой “семинар” направляйте по адресу:
-64 Wallingford Road, Brighton MA 02135 или через PayPal: mazalinst@gmail.com.
+Финансирование семинара осуществляется организацией Mazal Institute,
+возглавляемой Исроэлем Марковым. Если Вы хотите поддержать наши семинары по иудаизму деньгами,
+доброхотные пожертвования (не облагаемые налогами) с пометкой “семинар” направляйте по адресу:
+```
+Mazal Institute
+64 Wallingford Road, Brighton, MA 02135
+Paypal: mazalinst@gmail.com
+```
