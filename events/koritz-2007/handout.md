@@ -1,10 +1,9 @@
 ---
-layout: page
 title: handout
 ---
 
-## Что мы празднуем 19го Кислева? ##
-## Что такое Хасидизм и зачем он нужен? ##
+## Что мы празднуем 19го Кислева?
+## Что такое Хасидизм и зачем он нужен?
 
 19-20 Кислева 5767 года, 10 декабря 2006, Бостон
 
@@ -16,7 +15,7 @@ title: handout
 С замечаниями по поводу этого мероприятия обращайтесь по адресу
 19-kislev-5767@podval.org или по телефону (617) 571-4962 (Лёня).
 
-### Мишна (трактат "Хагига") о разрешенных и запрещенных лекциях ###
+### Мишна (трактат "Хагига") о разрешенных и запрещенных лекциях
 
 Mishna, Tractate Hagiga, Chapter II
 
@@ -29,7 +28,7 @@ revere the glory of his Creator, it were better for him he had not come into the
 
 From [http://www.jewishvirtuallibrary.org/jsource/Talmud/hagiga2.html](http://www.jewishvirtuallibrary.org/jsource/Talmud/hagiga2.html)
 
-### 28 высказываний Альтер Ребе ###
+### 28 высказываний Альтер Ребе
 
 1. This is what man is all about; this is the purpose of his creation and of the creation of all the
    worlds, sublime and lowly -- to make for G-d a dwelling in the physical world.
@@ -183,19 +182,16 @@ the end.
 
 From [http://www.chabad.org/library/article.asp?AID=3074](http://www.chabad.org/library/article.asp?AID=3074)
 
-### Донос на Альтер Ребе ### 
-
+### Донос на Альтер Ребе
 ![002-1](donos1.jpg)
 ![002-2](donos2.jpg)
 
-### Протокол первого допроса Альтер Ребе ###
+### Протокол первого допроса Альтер Ребе
 
 ![032-1](questions1.jpg)
 ![032-2](questions2.jpg)
 
-
-
-### Иллюстрации ###
+### Иллюстрации
 
 ![](petropavlovka.jpg)
 

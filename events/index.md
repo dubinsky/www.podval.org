@@ -1,6 +1,7 @@
 ---
-layout: page
 title: события
+header-page: true
+header-page-priority: 1
 ---
 
 ## Кориц 2007 (декабрь 9-12) ##
