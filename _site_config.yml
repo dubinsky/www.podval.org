@@ -4,6 +4,8 @@ url: "http://www.podval.org.org"
 author: "Leonid Dubinsky"
 email: dub@podval.org
 timezone: "America/New_York"
+header-pages:
+  - events/index.md
 
 social:
   github:  dubinsky
