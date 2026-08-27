@@ -1,11 +1,10 @@
 title: "Welcome to podval.org!"
 description: Podval
-url: "http://www.podval.org.org"
+url: "http://www.podval.org"
 author: "Leonid Dubinsky"
 email: dub@podval.org
 timezone: "America/New_York"
-header-pages:
-  - events/index.md
+home: events/index.md
 
 social:
   github:  dubinsky
