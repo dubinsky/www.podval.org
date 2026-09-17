@@ -1,11 +1,9 @@
 plugins {
   id 'java'
-  id 'io.github.ben-manes.versions' version '0.61.0'
+  id 'org.podval.conventions'
 }
 
 description = 'www.podval.org'
-
-java.toolchain.languageVersion = JavaLanguageVersion.of(25)
 
 // There is no Java in the project.
 project.gradle.startParameter.excludedTaskNames.add('compileJava')
@@ -57,20 +55,3 @@ tasks.register('serveSite', JavaExec) {
   args = siteArgs(true)
 }
 
-def isNonStable = { String version ->
-  boolean stableKeyword = ['RELEASE', 'FINAL', 'GA'].any { it -> version.toUpperCase().contains(it) }
-  String regex = /^[0-9,.v-]+(-r)?$/
-  return !stableKeyword && !(version ==~ regex)
-}
-
-// Maven has zio-blocks-schema_3:0.017 (a padded 0.0.17), which both Maven and Gradle
-// rank above 0.0.x because the second component is 17.
-def hasPaddedNumericComponent = { String version ->
-  version.tokenize('.-').any { it.length() > 1 && it ==~ /0\d+/ }
-}
-
-tasks.named("dependencyUpdates").configure {
-  rejectVersionIf {
-    isNonStable(it.candidate.version) || hasPaddedNumericComponent(it.candidate.version)
-  }
-}
